@@ -1,0 +1,218 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front end",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Front end at Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Web Design vs Web Development",
+          "url": "https://www.youtube.com/watch?v=Ujc3yhN9E5Y"
+        },
+        {
+          "titulo": "Front end in 2 min",
+          "url": "https://www.youtube.com/watch?v=qyHyFsT7Hig"
+        },
+        {
+          "titulo": "HTML Full Course",
+          "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+        },
+        {
+          "titulo": "CSS for Beginners",
+          "url": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+        },
+        {
+          "titulo": "Learn How to Build a Website",
+          "url": "https://www.youtube.com/watch?v=5bMdjkfvONE"
+        },
+        {
+          "titulo": "React.js Crash Course",
+          "url": "https://www.youtube.com/watch?v=sBws8MSXN7A"
+        },
+        {
+          "titulo": "Easiest Javascript Game",
+          "url": "https://www.youtube.com/watch?v=bG2BmmYr9NQ"
+        },
+        {
+          "titulo": "5 MUST KNOW Interview Questions",
+          "url": "https://www.youtube.com/watch?v=6Wzj7kxfRdI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Back end at Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "How Back end works",
+          "url": "https://www.youtube.com/watch?v=4r6WdaY3SOA"
+        },
+        {
+          "titulo": "What Can You Do With Python",
+          "url": "https://www.youtube.com/watch?v=kK_2mzBARTU"
+        },
+        {
+          "titulo": "Back end Frameworks",
+          "url": "https://www.youtube.com/watch?v=8FQ4zW_F_Iw"
+        },
+        {
+          "titulo": "Back end Engineering",
+          "url": "https://www.youtube.com/watch?v=cLK5vqPv6JQ"
+        }, 
+        {
+          "titulo": "Front x Back x Fullstack",
+          "url": "https://www.youtube.com/watch?v=pkdgVYehiTE"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science and AI",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Data Science at Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "AI - Mankind's Last Invention",
+          "url": "https://www.youtube.com/watch?v=Pls_q2aQzHg"
+        },
+        {
+          "titulo": "Google Data Center",
+          "url": "https://www.youtube.com/watch?v=kd33UVZhnAA"
+        },
+        {
+          "titulo": "Real Talk With a Google Data Scientist",
+          "url": "https://www.youtube.com/watch?v=JbNegqgZKCw"
+        },
+        {
+          "titulo": "How to Become a Data Analyst",
+          "url": "https://www.youtube.com/watch?v=5HlbV1wKBmo"
+        },
+        {
+          "titulo": "Data Science in 5 min",
+          "url": "https://www.youtube.com/watch?v=X3paOmcrTjQ"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Big Data in 5 min",
+          "url": "https://www.youtube.com/watch?v=bAyrObl7TYE"
+        }
+      ]
+    },
+    {
+      "titulo": "Movies",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "top 10 Netflix",
+          "url": "https://www.youtube.com/watch?v=6SJTCyxf_qE"
+        },
+        {
+          "titulo": "Tenet",
+          "url": "https://www.youtube.com/watch?v=L3pk_TBkihU"
+        },
+        {
+          "titulo": "Most Dangerous Game",
+          "url": "https://www.youtube.com/watch?v=lkG_nDoMT0M"
+        },
+        {
+          "titulo": "Bill & Ted 3 - 2020",
+          "url": "https://www.youtube.com/watch?v=dng7gn7hbi4"
+        },
+        {
+          "titulo": "The Tax Collector",
+          "url": "https://www.youtube.com/watch?v=C_TXN2P55bE"
+        },
+        {
+          "titulo": "GreyHound",
+          "url": "https://www.youtube.com/watch?v=eyzxu26-Wqk"
+        },
+        {
+          "titulo": "The Professor",
+          "url": "https://www.youtube.com/watch?v=raGuAtgC9C0"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Games at Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Diablo 4",
+          "url": "https://www.youtube.com/watch?v=0SSYzl9fXOQ"
+        },
+        {
+          "titulo": "Far Cry 6",
+          "url": "https://www.youtube.com/watch?v=-IJuKT1mHO8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Learn",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "How to learn at Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Learn How to Study",
+          "url": "https://www.youtube.com/watch?v=N5R-RX4fbbk"
+        },
+        {
+          "titulo": "Neuroplasticity",
+          "url": "https://www.youtube.com/watch?v=LNHBMFCzznE"
+        },
+        {
+          "titulo": "Learn How to Code",
+          "url": "https://www.youtube.com/watch?v=YBYmhWlk8o4"
+        },
+        {
+          "titulo": "Top 5 Languages 2020",
+          "url": "https://www.youtube.com/watch?v=tCAt8eEKPDc"
+        },
+        {
+          "titulo": "Highest Paying Certifications",
+          "url": "https://www.youtube.com/watch?v=ETGbjgSlmyM"
+        }
+      ]
+    }
+  ]
+}
