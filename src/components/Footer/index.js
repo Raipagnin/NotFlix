@@ -10,7 +10,7 @@ function Footer() {
       <p>
         Check the code
         {' '}
-        <a href="https://www.alura.com.br/">
+        <a href="https://github.com/Raipagnin/NotFlix">
           Here
         </a>
       </p>
