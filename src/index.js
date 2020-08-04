@@ -7,31 +7,8 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-// Desafio master blaster na descrição
-// Colocar um jogo ou brincadeira nessa página:
-const Pagina404 = () => (
-  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
-    <h1>Oops, something went wrong!</h1>
-    <p>
-      <a href="/">Play or Come back to Home)</a>
-    </p>
-    <p>
-      Or <a href="https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej">Learn how to make it</a>
-    </p>
-    {/*
-      Pessoal, quem quiser fazer o desafio do Flappy Bird, da pra usar esse iframe aqui: 
-      - https://codepen.io/omariosouto/pen/pogmdGE
-
-      E quem quiser programar o jogo:
-      - https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej
-    */}
-    <iframe
-      title="Flappy Bird Game"
-      src="https://mariosouto.com/flappy-bird-devsoutinho/"
-      width="340"
-      height="600" />
-  </div>
-)
+// my own little game
+const Pagina404 = () => (<div>Error 404</div>);
 
 ReactDOM.render(
   <BrowserRouter>
@@ -42,5 +19,5 @@ ReactDOM.render(
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
