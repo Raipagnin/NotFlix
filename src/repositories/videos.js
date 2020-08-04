@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import config from '../config';
 
 const URL_VIDEOS = `${config.URL_BACKEND_TOP}/videos`;
@@ -17,7 +16,7 @@ function create(objetoDoVideo) {
         return resposta;
       }
 
-      throw new Error('Not possible to fetch data :(');
+      throw new Error('Não foi possível cadastrar os dados :(');
     });
 }
 

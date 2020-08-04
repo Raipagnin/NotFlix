@@ -32,7 +32,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription={dadosIniciais[0].videos[0].description}
+                videoDescription="In this video we're gonna check it out the basics of React. A very popular framework for Javascript. Check the code down on the footer!"
               />
               <Carousel
                 ignoreFirstVideo
